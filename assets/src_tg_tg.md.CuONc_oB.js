@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.DnwzncJk.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"src/tg/tg.md","filePath":"src/tg/tg.md","lastUpdated":1766565816000}'),r={name:"src/tg/tg.md"};function s(c,o,n,d,p,_){return a(),e("div")}const f=t(r,[["render",s]]);export{m as __pageData,f as default};
